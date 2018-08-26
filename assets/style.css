@@ -35,13 +35,21 @@ h3 {
 #start {
   margin-top: 10%;
   background: gainsboro;
-  border: 2px solid blue;
+  border: 2px solid rgb(0, 0, 206);
 }
 
 #trivia-questions h2 {
   margin-top: 50px; 
   font-size: 30px;  
   
+}
+
+#time {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(0, 0, 210);
+  font-weight: bold;
+  font-style: italic
 }
 
 button {
@@ -58,5 +66,5 @@ button {
   
 button:hover {
   background: gainsboro;
-  border: 2px solid blue;
+  border: 2px solid rgb(0, 0, 207);
 }
